@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndresAyala014
+- 👋 Hi, I’m Carlos Andrés López Ayala (@AndresAyala014), live in Colombia and i´m an industrial engineer.
 - 👀 I’m interested in learning about web programming, databases, agile projects and data analytics.
 - 🌱 I’m currently learning software development.
 - 💞️ I’m looking to collaborate on development companies.
